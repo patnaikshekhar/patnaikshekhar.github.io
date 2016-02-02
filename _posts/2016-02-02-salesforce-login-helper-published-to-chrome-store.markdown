@@ -2,8 +2,8 @@
 layout: post
 title:  "Salesforce Login Helper published to Chrome App Store"
 date:   2016-01-08 15:04:23
-categories: [salesforce]
-tags: [login][salesforce]
+categories: [jekyll]
+tags: [jekyll]
 ---
 
 Salesforce Login Helper which is my attempt at making an easy to use tool to allow you to manage the logins of multiple Salesforce orgs has now been released.
