@@ -2,7 +2,7 @@
 title: Shekhar's Blog
 description: 'Shekhars Blog - Programming, Music, Games and perhaps more'
 url: 'patnaikshekhar.github.io' 
-baseurl: ''
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
