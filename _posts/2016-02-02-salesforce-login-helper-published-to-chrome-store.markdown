@@ -2,8 +2,13 @@
 layout: post
 title:  "Salesforce Login Helper published to Chrome App Store"
 date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+categories:
+    - Salesforce
+    - Force.com Logins
+    - Salesforce Login Helper
+tags:
+    - Salesforce
+    
 ---
 
 Since Force.com logins became paid, I decided that it would be a good learning experience to create my own Salesforce keychain type of application.
